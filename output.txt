@@ -1,0 +1,2 @@
+This is demo input file for HSBC coding exercise.
+Hi from Shahanavaz.
